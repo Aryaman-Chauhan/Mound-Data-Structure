@@ -1,4 +1,4 @@
-# Implemention of Mound Database
+# Implemention of Mound Data Structure
 ## Problem Statement
 You need to implement the mound data structure explained in Section 2 of the paper. You don't need consider the other sections of the [paper](https://github.com/Aryaman-Chauhan/Mound-Data-Structure/blob/main/Mounds_Array-Based_Concurrent_Priority_Queues.pdf). Implement the mound and insert all the objects present in data.txt. Implement all other operations present in the paper. If there are any parameters to be chosen, you can choose them by your choice.
 
